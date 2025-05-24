@@ -1,0 +1,5 @@
+Pillow
+opencv-python
+google-generativeai
+pytesseract
+scikit-image
